@@ -1,3 +1,0 @@
-error logs
-one more commit made in the remote repo
-old commit
